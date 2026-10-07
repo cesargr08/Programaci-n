@@ -1,4 +1,4 @@
-public class rango {
+public class Rango {
         public static void main(String[] args){
 
         short maximo = 32767;

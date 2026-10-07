@@ -1,7 +1,7 @@
 public class calculadorTiempo {
         public static void main(String[] args){
             
-        int totalSegundos = 3725;
+int totalSegundos = 3725;
 
 int horas = totalSegundos / 3600;
 int minutos = (totalSegundos % 3600) / 60;

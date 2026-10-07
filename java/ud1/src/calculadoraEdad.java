@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calculadoraEdad {
+public class CalculadoraEdad {
         public static void main(String[] args){
 
         Scanner teclado = new Scanner(System.in);
