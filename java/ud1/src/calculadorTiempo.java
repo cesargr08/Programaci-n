@@ -1,4 +1,4 @@
-public class calculadorTiempo {
+public class CalculadorTiempo {
         public static void main(String[] args){
             
 int totalSegundos = 3725;

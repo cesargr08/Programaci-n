@@ -4,7 +4,7 @@ public class Rango {
         short maximo = 32767;
         short tope = (short) (maximo + 1);
 
-        System.out.println("Valor máximo: " + maximo);
-        System.out.println("Valor tope: " + tope);
+        System.out.println("Valor del máximo: " + maximo);
+        System.out.println("Valor del tope: " + tope);
         }
 }
