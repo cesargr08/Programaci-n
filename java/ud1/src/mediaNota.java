@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mediaNota {
+public class MediaNota {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
