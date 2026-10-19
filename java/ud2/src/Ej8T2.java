@@ -13,13 +13,16 @@ public class Ej8T2 {
         if (n1 == 5) {
             System.out.println("Es suficiente");
         }
-        else if (n1 == 6){
+        if(n1 == 6){
             System.out.println("Es un bien");
         
-            else if (n1 == 0) || (n1 == 1) || (n1 ==  2) || (n1 == 3) || (n1 == 4){
+        if (0 < n1 < 4){
             System.out.println("Es un insuficiente");
-        }
-        }
-        }
-    }
+        
+            
+            
+             }
+         }
+     }
+} 
 
